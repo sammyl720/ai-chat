@@ -1,4 +1,4 @@
-import { DataSource, createConnection } from "typeorm";
+import { DataSource } from "typeorm";
 import { ChatRoom } from "./chat-room.js";
 import { Message } from "./message.js";
 
