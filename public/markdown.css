@@ -1,0 +1,7 @@
+.bot-message pre {
+  background-color: var(--secondary-color);
+  padding: 1rem;
+  border-radius: 8px;
+  margin-inline-end: 2rem;
+  box-shadow: -12px -9px 12px -8px rgba(0, 0, 0, 0.1);
+}
